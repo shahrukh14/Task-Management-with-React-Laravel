@@ -9,7 +9,7 @@ This project allows users to **register**, **log in** (with token-based authenti
 
 ### 👤 User Authentication
 - **User Registration:** Self sign-up functionality.
-- **Login & Logout:** Secure token-based authentication using Laravel Sanctum or Passport.
+- **Login & Logout:** Secure token-based authentication using Laravel Sanctum.
 - **Protected Routes:** Only logged-in users can access task management features.
 
 ### 🗂️ Task Management
