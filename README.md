@@ -63,9 +63,13 @@ This project allows users to **register**, **log in** (with token-based authenti
    ```bash
    php artisan key:generate
    ```
-4. Set up your database in env and migrate tables
+4. Set up your database in .env file and run migration
    ```bash
    php artisan migrate
+   ```
+5. Run the project
+   ```bash
+   php artisan serve
    ```
    
 ⚛️ Frontend Setup (React)
