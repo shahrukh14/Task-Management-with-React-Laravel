@@ -1,6 +1,6 @@
 ### 🧩 Task Management System (React + Laravel)
 
-A full-stack **Task Management Application** built using **React.js (Frontend)** and **Laravel (Backend)**.  
+A full-stack **Task Management Application** built using **React.js** and **Laravel**.  
 This project allows users to **register**, **log in** (with token-based authentication), and **manage their tasks** efficiently — including creating, updating, deleting, and viewing tasks with pagination.
 
 ---
